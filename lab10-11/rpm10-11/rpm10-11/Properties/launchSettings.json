@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "rpm10-11": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

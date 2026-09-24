@@ -1,0 +1,15 @@
+C:\Users\413\Documents\Git\yalaev-egor\lab10-11\rpm10-11\rpm10-11\bin\Debug\net8.0\rpm10-11.exe
+C:\Users\413\Documents\Git\yalaev-egor\lab10-11\rpm10-11\rpm10-11\bin\Debug\net8.0\rpm10-11.deps.json
+C:\Users\413\Documents\Git\yalaev-egor\lab10-11\rpm10-11\rpm10-11\bin\Debug\net8.0\rpm10-11.runtimeconfig.json
+C:\Users\413\Documents\Git\yalaev-egor\lab10-11\rpm10-11\rpm10-11\bin\Debug\net8.0\rpm10-11.dll
+C:\Users\413\Documents\Git\yalaev-egor\lab10-11\rpm10-11\rpm10-11\bin\Debug\net8.0\rpm10-11.pdb
+C:\Users\413\Documents\Git\yalaev-egor\lab10-11\rpm10-11\rpm10-11\obj\Debug\net8.0\rpm10-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\413\Documents\Git\yalaev-egor\lab10-11\rpm10-11\rpm10-11\obj\Debug\net8.0\rpm10-11.AssemblyInfoInputs.cache
+C:\Users\413\Documents\Git\yalaev-egor\lab10-11\rpm10-11\rpm10-11\obj\Debug\net8.0\rpm10-11.AssemblyInfo.cs
+C:\Users\413\Documents\Git\yalaev-egor\lab10-11\rpm10-11\rpm10-11\obj\Debug\net8.0\rpm10-11.csproj.CoreCompileInputs.cache
+C:\Users\413\Documents\Git\yalaev-egor\lab10-11\rpm10-11\rpm10-11\obj\Debug\net8.0\rpm10-11.sourcelink.json
+C:\Users\413\Documents\Git\yalaev-egor\lab10-11\rpm10-11\rpm10-11\obj\Debug\net8.0\rpm10-11.dll
+C:\Users\413\Documents\Git\yalaev-egor\lab10-11\rpm10-11\rpm10-11\obj\Debug\net8.0\refint\rpm10-11.dll
+C:\Users\413\Documents\Git\yalaev-egor\lab10-11\rpm10-11\rpm10-11\obj\Debug\net8.0\rpm10-11.pdb
+C:\Users\413\Documents\Git\yalaev-egor\lab10-11\rpm10-11\rpm10-11\obj\Debug\net8.0\rpm10-11.genruntimeconfig.cache
+C:\Users\413\Documents\Git\yalaev-egor\lab10-11\rpm10-11\rpm10-11\obj\Debug\net8.0\ref\rpm10-11.dll
