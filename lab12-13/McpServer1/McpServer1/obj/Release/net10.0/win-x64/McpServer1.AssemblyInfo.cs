@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("An MCP server using the MCP C# SDK.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27269c3611a1bdd2c14f407d4b8795193936b23b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cb5520d6a0f188cbb40fb69333ab9da6c66157a")]
 [assembly: System.Reflection.AssemblyProductAttribute("McpServer1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("McpServer1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
