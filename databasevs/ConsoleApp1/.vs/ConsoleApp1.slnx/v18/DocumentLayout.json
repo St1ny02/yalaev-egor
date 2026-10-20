@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\413\\documents\\git\\yalaev-egor\\databasevs\\consoleapp1\\consoleapp1\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\413\\documents\\git\\yalaev-egor\\databasevs\\consoleapp1\\consoleapp1\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\413\\documents\\git\\yalaev-egor\\databasevs\\consoleapp1\\consoleapp1\\models\\transmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\transmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\413\\documents\\git\\yalaev-egor\\databasevs\\consoleapp1\\consoleapp1\\models\\admission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\admission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\413\\documents\\git\\yalaev-egor\\databasevs\\consoleapp1\\consoleapp1\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\413\\documents\\git\\yalaev-egor\\databasevs\\consoleapp1\\consoleapp1\\models\\placement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\placement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\413\\documents\\git\\yalaev-egor\\databasevs\\consoleapp1\\consoleapp1\\models\\cage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\cage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\413\\documents\\git\\yalaev-egor\\databasevs\\consoleapp1\\consoleapp1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\413\\documents\\git\\yalaev-egor\\databasevs\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25245159-ABAC-4339-81D9-06D1D3B75280}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 151,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "animal.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\animal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\models\\animal.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\animal.cs",
+              "RelativeToolTip": "ConsoleApp1\\models\\animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:16:25.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "application.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\application.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\models\\application.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\application.cs",
+              "RelativeToolTip": "ConsoleApp1\\models\\application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:13:26.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "transmission.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\transmission.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\models\\transmission.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\transmission.cs",
+              "RelativeToolTip": "ConsoleApp1\\models\\transmission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:11:50.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admission.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\admission.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\models\\admission.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\admission.cs",
+              "RelativeToolTip": "ConsoleApp1\\models\\admission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:08:53.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "candidate.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\candidate.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\models\\candidate.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\candidate.cs",
+              "RelativeToolTip": "ConsoleApp1\\models\\candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:06:47.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "placement.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\placement.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\models\\placement.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\placement.cs",
+              "RelativeToolTip": "ConsoleApp1\\models\\placement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:04:26.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cage.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\cage.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\models\\cage.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\cage.cs",
+              "RelativeToolTip": "ConsoleApp1\\models\\cage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:02:04.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "employee.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\employee.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\models\\employee.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\models\\employee.cs",
+              "RelativeToolTip": "ConsoleApp1\\models\\employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T09:58:12.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\Git\\yalaev-egor\\databasevs\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T09:54:54.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
