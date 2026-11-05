@@ -1,0 +1,60 @@
+create table animal (
+id serial primary key,
+name varchar(100),
+type varchar(100),
+age integer,
+conditions varchar(100),
+receipt_id serial
+);
+
+create table receipt (
+id serial primary key,
+employee_id serial,
+receipt_date date,
+reason varchar(100),
+placement_id serial,
+LastTransfer_id serial
+);
+
+create table placement(
+id serial primary key,
+enclosure_id serial,
+placement_start date,
+placement_end date
+);
+
+
+create table enclosure (
+id serial primary key,
+destiny varchar(100),
+capacity integer
+);
+
+create table employee (
+id serial primary key,
+first_name varchar(100),
+last_name varchar(100),
+post varchar(100)
+);
+
+create table transfer (
+id serial primary key,
+receipt_id serial,
+transfer date,
+application_id serial
+);
+
+create table application (
+id serial primary key,
+status varchar(100),
+application_date date,
+employee_id serial,
+animal_id serial,
+candidate_id serial
+);
+
+create table candidate (
+id serial primary key,
+first_name varchar(100),
+post varchar(100)
+);
